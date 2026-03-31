@@ -4,7 +4,7 @@ A complete multi-sensor fusion pipeline that combines 3D LiDAR point clouds
 with 2D camera images to detect, range, and track objects in real driving scenes.
 Built on the KITTI dataset as part of an ADAS portfolio project.
 
-![Fusion Result](results/sample_outputs/005250_fusion.png)
+![Fusion Result](results/005250_fusion.png)
 
 ## What This Project Does
 
