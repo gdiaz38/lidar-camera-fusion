@@ -1,9 +1,5 @@
+streamlit
+pandas
 numpy
-opencv-python
-matplotlib
-open3d
-ultralytics
-filterpy
-scipy
-torch
-torchvision
+plotly
+pillow
